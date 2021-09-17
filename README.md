@@ -1,2 +1,2 @@
 # SpellerX
-A program that spells checks a file using a Dictionary
+A program that spell checks a file using a Dictionary
